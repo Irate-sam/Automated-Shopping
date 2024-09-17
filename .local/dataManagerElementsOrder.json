@@ -1,0 +1,59 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_FlipKartProductName&Sequence_1",
+        "str_AmazonProductName&Sequence_1",
+        "str_FlipKartRating&Sequence_1",
+        "str_FlipKartPrice&Sequence_1",
+        "str_FlipKartName&Sequence_1",
+        "str_AmazonRating&Sequence_1",
+        "str_AmazonPrice&Sequence_1",
+        "str_&Sequence_1",
+        "str_Price&Sequence_1",
+        "str_AmazonName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AmazonSeq.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "out_Rating",
+        "out_Price",
+        "out_Name",
+        "in_productName"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FlipkartSeq.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "out_Rating",
+        "out_Price",
+        "out_Name",
+        "in_productName"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
